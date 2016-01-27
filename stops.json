@@ -1,0 +1,682 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2015-09-08T16:52:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 2177857,
+  "members": [
+    {
+      "type": "way",
+      "ref": 162967986,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 99725191,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 100322754,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 50232760,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 25564254,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 168655542,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 168655559,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 162968367,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 109502699,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 99368390,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 50233962,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 107022210,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 282732416,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 162968368,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 168655559,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 168655542,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 25564254,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 50232760,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 100322754,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 99725191,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "name": "Автобус №5: Вокзал (Серпухов) - Лесная - Вокзал",
+    "ref": "5",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 3128167,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2219955366,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 1211691511,
+      "role": "platform_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 2441128611,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348192862,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128614,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348193007,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 1150878783,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348192869,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128618,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348192994,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128617,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348192948,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128615,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348192770,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128620,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1348192995,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128648,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1601995577,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128650,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 2412645659,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128651,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 2412641695,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128700,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 2412619867,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128702,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 735618915,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128703,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1332217406,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128704,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1332217247,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128705,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1332217343,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128706,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1332217383,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 2441128708,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 1977627479,
+      "role": "platform"
+    },
+    {
+      "type": "way",
+      "ref": 212104396,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 220639013,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 212104401,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 133136765,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 133136766,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 132985440,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 134427138,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 238287290,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 132985439,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 135934020,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 146322672,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 146322669,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 146322655,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 273278843,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 23971863,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 136434108,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 25465921,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 24663177,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 247654655,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 227540859,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 24663168,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 104639924,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 104639925,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 166254440,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 166254441,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 25465927,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 166254439,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 164949513,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 164949514,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 263807384,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 60208890,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 353283325,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 353283324,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 176968267,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 104639794,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 104639796,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 136434105,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 136434094,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 120186921,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 120186905,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 144379589,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 144379585,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 49448660,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 236037032,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 274097585,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 274097590,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 236037037,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 238307075,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 232949745,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 337763687,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 337763686,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 236037042,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 33095794,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 33095804,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 33095811,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 101810192,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 101810190,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 167050431,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 32960363,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 264085358,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 236037044,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 325002235,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 325002222,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 325175993,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 325175971,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 168702419,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 168655551,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 51957145,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 315933231,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 315933228,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 100059457,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 282732416,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 162968368,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "fixme": "пролегание по Серпухову",
+    "name": "Автобус №131: Калуга -> Серпухов",
+    "ref": "131",
+    "route": "bus",
+    "type": "route"
+  }
+}
+
+  ]
+}
